@@ -1,0 +1,17 @@
+
+Configurar git 
+git config --glogabl user.name ""
+git config --glogabl user.email ""
+
+Comando 
+git config --list vemos la configuracion de git
+git status vemos el estado de todos los archivos
+git add agregamos el archivo [name] a la cola
+git add . agregamos  todos los  archivo a la cola
+git commit -m "aqui va el mensaje" 
+git push enviamos los cambios al repositorio remoto 
+git log  archivo [name] me muestra la historia de cambios de ese archivo
+git log me muestra la histia de cambios de todos los archivos
+
+Regerencia documentación git todos los comandos
+https://git-scm.com/docs
